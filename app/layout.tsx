@@ -2,27 +2,27 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://deanooooooooo.github.io/as-landscaping-cambridge-oh"),
-  title: "A&S Landscaping | Lawn Care Cambridge OH",
+  metadataBase: new URL("https://deanooooooooo.github.io/ss-kitchen-bathroom-hamilton"),
+  title: "SS Kitchen and Bathroom | Hamilton Renovations",
   description:
-    "Call A&S Landscaping for lawn mowing, trimming, bush work, yard cleanup and snow removal in Cambridge, Ohio.",
+    "Call SS Kitchen and Bathroom for kitchen, bathroom, laundry, TV unit, wall panel and lighting enquiries in Hamilton, Waikato.",
   robots: "index, follow",
   alternates: {
-    canonical: "https://deanooooooooo.github.io/as-landscaping-cambridge-oh/",
+    canonical: "https://deanooooooooo.github.io/ss-kitchen-bathroom-hamilton/",
   },
   openGraph: {
     type: "website",
-    title: "A&S Landscaping | Lawn Care Cambridge OH",
+    title: "SS Kitchen and Bathroom | Hamilton Renovations",
     description:
-      "Call A&S Landscaping for lawn care, trimming, cleanup and snow removal help around Cambridge, Ohio.",
-    url: "https://deanooooooooo.github.io/as-landscaping-cambridge-oh/",
-    images: ["/assets/hero-lawn.png"],
+      "Kitchen, bathroom, laundry, TV unit, wall panel and lighting enquiries for Hamilton and nearby Waikato homes.",
+    url: "https://deanooooooooo.github.io/ss-kitchen-bathroom-hamilton/",
+    images: ["/assets/kitchen-hero.png"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "A&S Landscaping | Lawn Care Cambridge OH",
-    description: "Call for mowing, trimming, cleanup and snow removal help in Cambridge, Ohio.",
-    images: ["/assets/hero-lawn.png"],
+    title: "SS Kitchen and Bathroom | Hamilton Renovations",
+    description: "Call for kitchen, bathroom, laundry and cabinetry enquiries in Hamilton, Waikato.",
+    images: ["/assets/kitchen-hero.png"],
   },
 };
 

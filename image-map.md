@@ -1,59 +1,53 @@
-# Image Map - A&S Landscaping
+# Image Map - SS Kitchen and Bathroom
 
 ## Source Summary
 
-- Facebook: `https://www.facebook.com/people/AS-landscaping/61587562415537/`
-- Resolved public name/location: A&S Landscaping, Cambridge, OH.
-- Public description mentions mowing grass, trimming bushes, snow removal and other outdoor work.
-- Phone found from public Facebook/search result context: `740-801-2718`.
-- No verified email was visible in the public logged-out view.
-- No useful written public review quotes were visible, so no testimonial cards are used.
+- Facebook: `https://www.facebook.com/profile.php?id=61562137071148`
+- Resolved public name/location: SS Kitchen and Bathroom, Hamilton, Waikato.
+- Public contact route found from profile/search context: `021 506 700`.
+- Publicly visible service themes: kitchens, bathrooms, laundry, TV units, wall panels and lighting.
+- No verified public email was found, so the enquiry form uses phone/SMS only.
+- No exact street address or written review quotes were verified, so no map iframe or testimonial cards are used.
 
 ## Asset Tier
 
-- Tier C/B hybrid: one real public profile image is available, but no usable public project gallery was visible.
-- Generated landscaping service imagery is used as atmosphere/service visuals only, not as completed-project proof.
+- Tier C: limited usable public assets were visible during logged-out research.
+- Generated interior renovation imagery is used as atmosphere/service visual only, not completed-project proof.
 
 ## Assets
 
-- `public/assets/as-profile.jpg`
-  - Source: public Facebook profile image.
-  - Subject: A&S Landscaping profile image.
-  - Use: header/footer brand avatar.
-  - Notes: small social profile asset, not suitable for full-bleed hero.
-
-- `public/assets/hero-lawn.png`
+- `public/assets/kitchen-hero.png`
   - Source: generated bitmap asset.
-  - Subject: freshly mowed lawn, clean edging, residential setting.
-  - Use: hero and first gallery service card.
+  - Subject: modern kitchen renovation with cabinetry, benchtop and splashback.
+  - Use: hero and gallery.
   - Notes: atmosphere/service visual only.
 
-- `public/assets/edgework.png`
+- `public/assets/bathroom-renovation.png`
   - Source: generated bitmap asset.
-  - Subject: edged driveway/walkway lawn line.
-  - Use: horizontal service gallery.
+  - Subject: modern bathroom with walk-in shower, vanity and tile finish.
+  - Use: gallery.
   - Notes: atmosphere/service visual only.
 
-- `public/assets/shrub-trim.png`
+- `public/assets/laundry-cabinetry.png`
   - Source: generated bitmap asset.
-  - Subject: trimmed shrubs and clean bed edge.
-  - Use: gallery and proof/contact visual.
+  - Subject: laundry cabinetry, bench, sink and storage.
+  - Use: gallery.
   - Notes: atmosphere/service visual only.
 
-- `public/assets/fall-cleanup.png`
+- `public/assets/media-wall.png`
   - Source: generated bitmap asset.
-  - Subject: seasonal leaf cleanup.
-  - Use: horizontal service gallery.
+  - Subject: media wall, TV unit, wall panels and lighting.
+  - Use: gallery.
   - Notes: atmosphere/service visual only.
 
-- `public/assets/snow-removal.png`
+- `public/assets/cabinetry-detail.png`
   - Source: generated bitmap asset.
-  - Subject: cleared snowy driveway/walkway.
-  - Use: horizontal service gallery.
+  - Subject: cabinetry and benchtop detail.
+  - Use: proof/contact visual.
   - Notes: atmosphere/service visual only.
 
 ## Copy Guardrails
 
-- Do not show Facebook review counts, rating states or source-mechanics copy.
 - Do not add testimonials unless a real written customer quote is available.
-- Do not invent email, exact address, years in business, awards, guarantees, reviews or project proof.
+- Do not invent email, exact address, years in business, awards, guarantees, reviews or completed-project proof.
+- Do not use upload/photo CTA unless an actual upload/email attachment route is added and approved.

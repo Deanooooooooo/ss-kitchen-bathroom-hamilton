@@ -1,9 +1,9 @@
 {
-  "name": "as-landscaping-cambridge-oh-premium-next",
+  "name": "ss-kitchen-bathroom-hamilton-premium-next",
   "scripts": {
     "dev": "next dev --hostname 127.0.0.1",
     "build": "next build",
-    "build:github": "NEXT_PUBLIC_BASE_PATH=/as-landscaping-cambridge-oh next build",
+    "build:github": "NEXT_PUBLIC_BASE_PATH=/ss-kitchen-bathroom-hamilton next build",
     "start": "next start --hostname 127.0.0.1"
   },
   "dependencies": {
