@@ -1,4 +1,4 @@
-# QA - A&S Landscaping
+# QA - SS Kitchen and Bathroom
 
 ## Local Build
 
@@ -7,40 +7,34 @@
 - Premium stack present: Next, React, motion, GSAP ScrollTrigger, Lenis, lucide-react.
 - One H1: PASS.
 - One primary form: PASS.
-- Hero form/checklist present: PASS.
-- Map iframe: intentionally omitted because no exact address/map listing was verified.
-- Public copy grep for rejected Facebook/review/source phrases: PASS.
-- Phone route present: `740-801-2718`.
-- No fake email, exact address, reviews, awards, guarantees or project claims: PASS.
-
-## Visual QA
-
-- Desktop hero/form screenshot: `qa-desktop-hero.png`.
-- Mobile hero/form screenshot: `qa-mobile-hero.png`.
-- Desktop horizontal gallery start screenshot: `qa-desktop-gallery-start.png`.
-- Desktop horizontal gallery scrolled screenshot: `qa-desktop-gallery-scrolled.png`.
-- Mobile contact screenshot: `qa-mobile-contact.png`.
-- Gallery movement check: PASS, track transform changed during scroll.
+- Hero enquiry form present: PASS.
+- Verified phone route present: `021 506 700`.
+- `tel:021506700` present: PASS.
+- `sms:021506700` present: PASS.
+- Email form route: omitted because no verified public email was found.
+- Map iframe: omitted because no exact address/map listing was verified.
+- No unsupported photo upload/send photos copy: PASS.
+- No fake testimonials, email, street address, awards or review claims: PASS.
+- No stale A&S Landscaping / Cambridge / 740 number copy in live HTML: PASS.
 
 ## Live QA
 
-- GitHub Pages status: built.
-- Live URL: `https://deanooooooooo.github.io/as-landscaping-cambridge-oh/`.
+- GitHub repo: `https://github.com/Deanooooooooo/ss-kitchen-bathroom-hamilton`.
+- Live URL: `https://deanooooooooo.github.io/ss-kitchen-bathroom-hamilton/`.
 - Live HTML 200: PASS.
 - Live CSS 200: PASS.
 - Live hero image 200: PASS.
-- Live `.nojekyll` 200: PASS.
+- Live `.nojekyll` published: PASS.
 - Live one H1 / one form / zero iframes: PASS.
 - Live phone route present: PASS.
-- Live `tel:7408012718` present: PASS.
-- Live `sms:7408012718` present: PASS.
-- Live `Message on Facebook` visible matches: zero.
+- Live `tel:021506700` present: PASS.
+- Live `sms:021506700` present: PASS.
 - Live rejected phrase grep: PASS.
-- Live desktop hero screenshot: `qa-live-desktop-hero.png`.
-- Live mobile hero screenshot: `qa-live-mobile-hero.png`.
-- Live horizontal gallery start screenshot: `qa-live-gallery-start.png`.
-- Live horizontal gallery scrolled screenshot: `qa-live-gallery-scrolled.png`.
-- Live phone desktop hero screenshot: `qa-live-phone-desktop-hero.png`.
-- Live phone mobile hero screenshot: `qa-live-phone-mobile-hero.png`.
-- Live phone contact screenshot: `qa-live-phone-contact.png`.
-- Live gallery movement check: PASS, track transform changed during scroll.
+
+## Visual QA
+
+- Live desktop hero/form screenshot: `qa-live-desktop-hero-ss.png`.
+- Live mobile hero screenshot: `qa-live-mobile-hero-ss.png`.
+- Live mobile hero form screenshot: `qa-live-mobile-form-ss.png`.
+- Live gallery screenshot: `qa-live-gallery-ss.png`.
+- Live mobile contact screenshot: `qa-live-mobile-contact-ss.png`.
